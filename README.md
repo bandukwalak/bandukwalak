@@ -26,7 +26,7 @@ I care deeply about **reproducibility and documentation**, and I'm most energize
 
 ## 🔭 Featured Projects
 
-### 🤖 [TrialMate – AI Clinical Trial Matching Chatbot](https://github.com/khadeejabandukwala/trialmate)
+### 🤖 [TrialMate – AI Clinical Trial Matching Chatbot]([https://github.com/Stella332/AI-Powered-Clinical-Trial-Matching])
 *BNFOthon 2024 · People's Choice Award*  
 NLP-based model that structures and filters ClinicalTrials.gov data using eligibility logic, biomarker variables, and demographic filters. Built Python pipelines to clean and standardize clinical trial metadata.
 
@@ -41,6 +41,6 @@ Linear and logistic regression models in R and SAS using biomedical datasets, wi
 ## 📬 Let's Connect
 
 - 📧 bandukwalak@vcu.edu  
-- 🔗 [LinkedIn](https://linkedin.com/in/khadeeja-bandukwala)
+- 🔗 [LinkedIn](www.linkedin.com/in/khadeeja-bandukwala-44540b310)
 
 *Open to research collaborations, internships, and opportunities in bioinformatics, clinical data science, and genomics.*
